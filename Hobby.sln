@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HP-yalta", "HP-yalta\HP-yalta.csproj", "{8207ABB2-A85C-472E-9DB1-4011D8A86491}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HP", "HP\HP.csproj", "{FD15964F-9CAA-4866-BAB6-F76B55FFC303}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +11,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8207ABB2-A85C-472E-9DB1-4011D8A86491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8207ABB2-A85C-472E-9DB1-4011D8A86491}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8207ABB2-A85C-472E-9DB1-4011D8A86491}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{8207ABB2-A85C-472E-9DB1-4011D8A86491}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8207ABB2-A85C-472E-9DB1-4011D8A86491}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8207ABB2-A85C-472E-9DB1-4011D8A86491}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FD15964F-9CAA-4866-BAB6-F76B55FFC303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD15964F-9CAA-4866-BAB6-F76B55FFC303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD15964F-9CAA-4866-BAB6-F76B55FFC303}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FD15964F-9CAA-4866-BAB6-F76B55FFC303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD15964F-9CAA-4866-BAB6-F76B55FFC303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD15964F-9CAA-4866-BAB6-F76B55FFC303}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
